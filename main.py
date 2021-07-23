@@ -2,11 +2,11 @@ import smtplib
 import datetime as dt
 import random
 
-my_email = "franciselizabeth7221@gmail.com"
-my_password = "Danlizz@7"
+my_email = "xxxxxxx@gmail.com"
+my_password = "xxxxxxx@7"
 
-your_mail = "francismaria7221@yahoo.com"
-your_password = "btenpbushitdydzz"
+your_mail = "xxxxxxxx@yahoo.com"
+your_password = "xxxxxxx"
 
 
 with open("quotes.txt", "r") as file:
